@@ -89,3 +89,15 @@ body::before {
     width: 420px;
 }
 
+.footer {
+    text-align: center;
+}
+
+.socialMedia {
+    padding-top: 12px;
+}
+
+.socialMedia a {
+    color: white;
+    font-size: 1.6rem;
+}
